@@ -1,0 +1,28 @@
+.wrapper-hero{
+    margin-top: 3rem;
+    display: flex;
+    gap: 3rem;
+    justify-content: space-between;
+    align-items: center;
+   
+
+    .hero-text{
+        font-size: 2rem;
+
+
+        p{
+            font-size: 1.1rem;
+        }
+        .btn-resume{
+            margin-top: 1rem;
+            background-color: rgb(18, 17, 17);
+        }
+
+      
+    }
+
+.hero-img{
+    border-radius: 2rem;
+}
+    
+}
